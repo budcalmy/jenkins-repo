@@ -1,0 +1,14 @@
+jenkins-docker/jenkins-backups/
+jenkins_home/
+
+*.tar.gz
+*_commit_tag.txt
+
+.env
+
+.docker/
+
+.DS_Store
+
+.vscode/
+.idea/
