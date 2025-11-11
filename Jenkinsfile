@@ -11,9 +11,9 @@ pipeline {
         DOCKER_BUILDKIT = "1"
         IMAGE_KEEP = "10"
         
-        EC2_DEV_HOST = "54.91.253.98"
+        EC2_DEV_HOST = "44.206.227.41"
         EC2_DEV_USER = "ubuntu"
-        EC2_PROD_HOST = "52.201.246.148"
+        EC2_PROD_HOST = "52.207.251.0"
         EC2_PROD_USER = "ubuntu"
         
         DEV_CONTAINER_NAME = "dev-nginx"
